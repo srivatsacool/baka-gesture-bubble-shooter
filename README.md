@@ -141,7 +141,8 @@ The system follows a client-side architecture where inference, logic, and render
 *Note: Allow webcam permissions when prompted by the browser.*
 
 ## Author / Credits
-- **Developer**: Open Source Contribution
+- **Developer**: Open Source Contribution | Made by Build.Srivatsa
 - **Models Built With**: Google MediaPipe
-#   b a k a - g e s t u r e - b u b b l e - s h o o t e r  
+#   b a k a - g e s t u r e - b u b b l e - s h o o t e r 
+ 
  

@@ -1,0 +1,7 @@
+{
+  "name": "Baka Gesture Bubble Shooter",
+  "description": "A webcam-controlled bubble shooter game using MediaPipe for hand gesture recognition. Pinch to aim, release to shoot!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
